@@ -25,8 +25,8 @@ app.use(
  */
 
 const PORT = 3000;
-const GITHUB_CLIENT_ID = "Ov23li0ZiBJKBruqDvAX";
-const GITHUB_CLIENT_SECRET = "76cbe5c2da29a192c3f5cb23a0361f59309e9987";
+const GITHUB_CLIENT_ID = "";
+const GITHUB_CLIENT_SECRET = "";
 
 /*
  * Passport Configurations
